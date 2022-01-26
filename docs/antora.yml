@@ -1,0 +1,5 @@
+name: demo_workspace
+title: Demo Workspace
+version: ~
+nav:
+- modules/ROOT/nav.adoc

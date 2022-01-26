@@ -1,0 +1,27 @@
+= {page-component-title}
+
+This repository offers a demonstration workspace to use with
+https://github.com/data4development/iati-workbench[the iati-workbench engine.]
+
+== Directory layout
+
+[source, treeview]
+----
+.
+├── config # <.>
+├── dest # <.>
+├── docs # <.>
+├── input # <.>
+├── output # <.>
+├── reports # <.>
+├── src # <.>
+└── tmp # <.>
+----
+<.> Configuration `csvxml-iati.xslt` with publisher information
+<.> Destination for raw results (to be processed further)
+<.> Documentation
+<.> Input files for conversions
+<.> Output files for the user
+<.> Report files about for instance validation
+<.> Generated raw IATI files
+<.> Temporary files during processing
