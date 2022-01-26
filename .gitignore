@@ -1,5 +1,7 @@
 *.fods
+config/sheets-iati.xslt
 dest/
+output/
 reports/
 src/
 tmp/
