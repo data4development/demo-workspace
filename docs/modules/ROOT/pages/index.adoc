@@ -3,6 +3,13 @@
 This repository offers a demonstration workspace to use with
 https://github.com/data4development/iati-workbench[the iati-workbench engine.]
 
+== Demo organisation
+
+The org-id.guide project has reserved http://org-id.guide/list/XE-EXAMPLE[the prefix `XE-EXAMPLE`^] to use in example data,
+for instance for validation purposes.
+
+We use `XE-EXAMPLE-AIDA` as organisation identifier in the demo workspace.
+
 == Directory layout
 
 [source, treeview]
